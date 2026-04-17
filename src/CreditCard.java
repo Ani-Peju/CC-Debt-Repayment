@@ -17,6 +17,7 @@ public class CreditCard {
         return (balance / limit) * 100;
     }
 
+    //TODO: Find better or more detailed indicator for utilization
     public String getCreditScoreCategory() {
         double utilization = getUtilization();
 

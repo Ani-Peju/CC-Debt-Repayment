@@ -38,6 +38,7 @@
                 if (balance <= 0) break;
             }
 
+
             System.out.printf("\nTotal Interest Paid: $%.2f\n", totalInterest);
             System.out.printf("Total Paid: $%.2f\n", totalPaid);
         }

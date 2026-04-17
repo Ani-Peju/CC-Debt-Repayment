@@ -1,3 +1,17 @@
+/*
+* Credit Card Debit Repayment Calculator
+*
+* A program that calculates the user's current
+* utilization of the card and how much
+* the user should pay towards the card
+* each month with interest.
+*
+* TODO: Turn console app into Web app
+*   Have an option to have multiple lines of credit with other class (Loans, Car payments)
+*   Find a better indicator for credit score in terms of utilization
+*
+*
+*   */
 import java.util.Scanner;
 
 public class Main {
