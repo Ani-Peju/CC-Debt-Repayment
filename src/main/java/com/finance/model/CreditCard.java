@@ -1,3 +1,5 @@
+package main.java.com.finance.model;
+
 public class CreditCard {
     private final double  limit;
     private final double balance;
