@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Java-based financial simulator that calculates credit card repayment schedules with interest.
+A Java based financial simulator that calculates credit card repayment schedules with interest.
 The application demonstrates Object-Oriented Programming (OOP) principles and the Strategy Design Pattern to support multiple repayment methods.
 
 ## Features
@@ -13,8 +13,7 @@ The application demonstrates Object-Oriented Programming (OOP) principles and th
 
     * Fixed Principal Strategy
     * Minimum Payment Strategy
-    * Avalanche Strategy
-    * Snowball Startegy
+  
 * Month-by-month breakdown of:
 
     * Payment
