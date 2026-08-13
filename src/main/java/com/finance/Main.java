@@ -8,6 +8,7 @@ package main.java.com.finance;/*
 *
 * TODO: Turn console app into Web app
 *   Have an option to have multiple lines of credit with other class (Loans, Car payments, etc)
+    Include other payment strategies (Snowball and Avalanche)
 *   Find a better indicator for credit score in terms of utilization
 *
 *
